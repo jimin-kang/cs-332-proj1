@@ -19,3 +19,15 @@ In this part, you will expand on your empirical study of bidding in the first-pr
 Consider devising a bidding algorithm from data.  Suppose you had a small sample of bid data; how would you use this data to devise a good bidding strategy?  How does a good algorithm change with the amount of data you have?  Suppose you have 1 sample?  or 10 samples?  Or what if you have 100 samples?  Evaluate your bidding algorithm using Monte Carlo simulation.
 
 If you are inspired, you are welcome to instead consider other interesting ways of expanding on the study that are about as involved as the suggestion above. 
+
+**Relevant Files**
+
+Data)
+
+bid_data.csv contains the provided bid data submitted by our classmates for in-class exercise 1.2.
+
+Notebooks)
+
+bid_evaluation.ipynb contains the analysis for Part 1 of this project as described above.
+
+<INSERT PART 2 .ipynb DESCRIPTIONS HERE>
