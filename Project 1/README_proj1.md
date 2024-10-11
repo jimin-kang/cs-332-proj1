@@ -30,4 +30,4 @@ Notebooks)
 
 bid_evaluation.ipynb contains the analysis for Part 1 of this project as described above.
 
-<INSERT PART 2 .ipynb DESCRIPTIONS HERE>
+Data_limited_experiments.ipynb contains the strategies, data creation and experiments for part two of the project as described above.
